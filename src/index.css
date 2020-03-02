@@ -163,7 +163,8 @@ main .contents .notFoundCard h1 {
 
 /* ===== color-search ===== */
 .color-search {
-    padding-top: 5%;
+    /* padding-top: 5%; */
+    padding-bottom: 3%;
     display: flex;
     flex-direction: column;
     align-items: center;
